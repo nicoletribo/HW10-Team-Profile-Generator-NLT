@@ -1,0 +1,23 @@
+{
+  "name": "HW10-Team-Profile-Generator-NLT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoletribo/HW10-Team-Profile-Generator-NLT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoletribo/HW10-Team-Profile-Generator-NLT/issues"
+  },
+  "homepage": "https://github.com/nicoletribo/HW10-Team-Profile-Generator-NLT#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
