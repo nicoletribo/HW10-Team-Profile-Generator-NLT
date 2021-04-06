@@ -201,7 +201,7 @@ class TeamGenerator {
                   <ul>
                     <li>ID: ${engineer.id}</li>
                     <li>Email: <a href="mailto:${engineer.email}">${engineer.email}</a></li>
-                    <li>GitHub: <a href="${engineer.getGitHub()}">${engineer.github}</a></li>
+                    <li>GitHub: <a href="${engineer.getGithub()}">${engineer.github}</a></li>
                   </ul>
                 </div>
               </div>
@@ -252,7 +252,7 @@ class TeamGenerator {
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
-            <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous"/>
             <title>HW 10</title>
           </head>
           
